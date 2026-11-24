@@ -19,3 +19,4 @@ __pycache__/
 
 # zips
 *.zip
+MUJOCO_LOG.TXT
